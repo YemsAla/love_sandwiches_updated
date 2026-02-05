@@ -1,0 +1,5 @@
+# Virtual environment
+.venv/
+
+# Google Sheets credentials
+creds.json
